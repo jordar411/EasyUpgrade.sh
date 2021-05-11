@@ -4,7 +4,7 @@ green="\e[1;32;40m"
 
 sudo apt update
 sudo apt upgrade
-echo -e "${green}Updates completed,${endcolor}${purple}$USER!${endcolor}"
+echo -e "${green}Updates completed, ${endcolor}${purple}$USER!${endcolor}"
 
 
 
